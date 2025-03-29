@@ -6,10 +6,10 @@ Crea un archivo llamado index.html con contenido que represente tu currículum p
 
 Utiliza al menos 3 de las siguientes etiquetas semánticas de HTML5 para estructurar el contenido:
 
--<header>
--<nav>
--<aside>
--<article>
--<section>
--<footer>
+-header
+-nav
+-aside
+-article
+-section
+-footer
 🔸 No es obligatorio usar todas, pero deben estar bien aplicadas y organizadas.
